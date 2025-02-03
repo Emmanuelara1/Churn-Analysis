@@ -73,7 +73,8 @@ To run this project locally, follow these steps:
 Clone the repository:
 bash
 Copy
-git clone https://github.com/yourusername/customer-churn-analysis.git
+git clone https://github.com/Emmanuelara1
+/customer-churn-analysis.git
 Navigate to the project directory:
 bash
 Copy
@@ -92,4 +93,4 @@ The results will be saved as output files and charts in the project directory.
 
 The PowerPoint presentation will be generated automatically with visualizations and insights based on the churn analysis.
 
-License
+
